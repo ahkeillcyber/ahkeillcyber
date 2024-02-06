@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ahkeill! <br/>
-
+<a href="https://linkedin.com/in/ahkeill-irving-52a964108"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Microsoft Windows Defender Antivirus Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
