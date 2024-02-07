@@ -36,14 +36,27 @@ My journey in information technology has led me to develop a passion for cyberse
   ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
   
+</div>
+
+   ### Cloud
+  <div>
+   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+   
+</div>
+
   ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+  ## Education
+<div>
+<img src="https://img.shields.io/badge/-Texas%20State%20University-4B75A1?&style=for-the-badge" />
+
 </div>
 
  ## Projects
